@@ -49,7 +49,3 @@ yarn docs:dev
 - [开源项目汇总](https://github.com/chenyl8848/great-open-source-project)
 
 ## 联系本人
-
-笔记内容会同步更新到公众号【Java陈序员】，方便实时阅读，如果可以的话，麻烦点个关注！
-
-<img align="" height="180px" src="https://chen-coding.oss-cn-shenzhen.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7.png" />
